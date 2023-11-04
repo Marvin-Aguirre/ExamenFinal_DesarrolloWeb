@@ -10,6 +10,9 @@ export const Layout =()=>{
             <NavLink to="/Teachers">
                 Profesores
             </NavLink>
+            <NavLink to="/Productos">
+                Productos
+            </NavLink>
             <Outlet/>
         </div>
     )
