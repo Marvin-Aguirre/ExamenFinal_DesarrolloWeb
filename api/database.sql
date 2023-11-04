@@ -1,5 +1,5 @@
 USE [master]
-GO
+GO	
 
 /****** Object:  Database [Alumno]    Script Date: 30/09/2023 12:15:10 ******/
 CREATE DATABASE [Alumno]
